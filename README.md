@@ -15,3 +15,10 @@ Then reset the location and rotation to default for *BP_EdaCam_L* and *BP_EdaCam
 <img src="Docs/ResetTransform.png" alt="Reset Camera Transform" width="400"/>
 
 For reference, see the *BaseMap* and *AnimatedMap* template levels, which are located in *Content > EdaRender > Maps*.
+
+## Relevant Tutorials and Resources
+
+* [Rendering Out Cinematic Movies](https://docs.unrealengine.com/en-us/Engine/Sequencer/HowTo/RenderMovies)
+* [Sequencer Overview](https://docs.unrealengine.com/en-us/Engine/Sequencer/Overview)
+* [Cinematics with Sequencer (Video)](https://www.youtube.com/watch?v=uEnfMV-4afA&list=PLZlv_N0_O1gaiA_sfpjATUprVW7B9FcK1)
+* [Render Movie or Image Sequence in Unreal Engine 4 (Video)](https://www.youtube.com/watch?v=MXluHwioBOo)
