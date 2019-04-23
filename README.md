@@ -2,6 +2,8 @@
 
 This is an Unreal Engine template project for rendering out cinematic sequences for UCLA's EDA Immersive Projection System in the Broad Art Center.
 
+[Download a ZIP file here.](https://github.com/L05/EdaRenderTemplate/archive/master.zip)
+
 ![EDA Immersive Space](http://classes.dma.ucla.edu/Spring19/24/wp-content/uploads/EDA01-1024x410.png)
 
 The template comes with three Blueprint CineCamera Actors, one for each of the three EDA walls, and each camera has its sensor settings and transform (location, rotation, scale) preconfigured for its respective wall. The camera Blueprints can be found in *Content > EdaRender > Core*.
