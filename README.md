@@ -16,6 +16,9 @@ Then reset the location and rotation to default for *BP_EdaCam_L* and *BP_EdaCam
 
 For reference, see the *BaseMap* and *AnimatedMap* template levels, which are located in *Content > EdaRender > Maps*.
 
+If you'd like to modify the settings of a provided camera (e.g. BP_EdaCam_C), click the camera actor, and in the details page, select the Camera Component. You'll then be able to adjust the camera settings, though you may want to make sure the settings match on all three cameras if you want the visual effect to be uniform.
+<img src="Docs/CameraComponent.png" alt="CameraComponent" width="400"/>
+
 ## Relevant Tutorials and Resources
 
 * [Rendering Out Cinematic Movies](https://docs.unrealengine.com/en-us/Engine/Sequencer/HowTo/RenderMovies)
